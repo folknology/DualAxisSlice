@@ -1,0 +1,276 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Wed 23 Jul 2014 14:05:31 BST
+
+BeginCmp
+TimeStamp = /53C85CB9;
+Reference = C1;
+ValeurCmp = CAPAPOL;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C85DA9;
+Reference = C2;
+ValeurCmp = CAPAPOL;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Reflow;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C82F26;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C830DF;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C8303A;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C82FF5;
+Reference = C6;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C82E1F;
+Reference = C7;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C82FCE;
+Reference = C8;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C82CCF;
+Reference = C9;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C82DA2;
+Reference = C10;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C8352B;
+Reference = C11;
+ValeurCmp = CAPAPOL;
+IdModule  = Capacitors_SMD:c_elec_5x5.8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C835B6;
+Reference = C12;
+ValeurCmp = CAPAPOL;
+IdModule  = Capacitors_SMD:c_elec_5x5.8;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CEC9FA;
+Reference = C13;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:c_0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C97029;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C94DD4;
+Reference = D2;
+ValeurCmp = DIODE;
+IdModule  = Diodes_SMD:Diode-MiniMELF_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CFE47E;
+Reference = D3;
+ValeurCmp = DOUBLE_SCHOTTKY_SERIES;
+IdModule  = Diodes_SMD:Diode_SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CFE20D;
+Reference = D4;
+ValeurCmp = DOUBLE_SCHOTTKY_SERIES;
+IdModule  = Diodes_SMD:Diode_SOT23;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C95AEC;
+Reference = D7;
+ValeurCmp = DIODE;
+IdModule  = Diodes_SMD:Diode-MiniMELF_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C94F9B;
+Reference = D8;
+ValeurCmp = DIODE;
+IdModule  = Diodes_SMD:Diode-MiniMELF_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C95D87;
+Reference = D9;
+ValeurCmp = DIODE;
+IdModule  = Diodes_SMD:Diode-MiniMELF_Standard;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CEC86D;
+Reference = F1;
+ValeurCmp = FUSE;
+IdModule  = Resistors_SMD:Resistor_SMD1210_ReflowWave;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C9B120;
+Reference = K1;
+ValeurCmp = CONN_3;
+IdModule  = Connect:SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C9B197;
+Reference = K2;
+ValeurCmp = CONN_3;
+IdModule  = Connect:SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C9B204;
+Reference = K3;
+ValeurCmp = CONN_3;
+IdModule  = Connect:SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C9B22F;
+Reference = K4;
+ValeurCmp = CONN_3;
+IdModule  = Connect:SIL-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CED1E2;
+Reference = L1;
+ValeurCmp = INDUCTOR_SMALL;
+IdModule  = Resistors_SMD:Resistor_SMD1210_ReflowWave;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C8583B;
+Reference = P1;
+ValeurCmp = CONN_2;
+IdModule  = Sockets_WAGO734:WAGO_734_2pin_Straight;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C98F53;
+Reference = P2;
+ValeurCmp = CONN_2;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C80DA8;
+Reference = P4;
+ValeurCmp = CONN_4;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C80E29;
+Reference = P5;
+ValeurCmp = CONN_4;
+IdModule  = Pin_Headers:Pin_Header_Angled_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C99FCD;
+Reference = Q1;
+ValeurCmp = IRF7606PBF;
+IdModule  = SMD_Packages:SO8N;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C972E4;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:Resistor_SMD0805_ReflowWave;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C98B9C;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:Resistor_SMD0805_ReflowWave;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C962D9;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:Resistor_SMD0805_ReflowWave;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C958BC;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:Resistor_SMD0805_ReflowWave;
+EndCmp
+
+BeginCmp
+TimeStamp = /53CFA1F8;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:Resistor_SMD0805_ReflowWave;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C80780;
+Reference = S1;
+ValeurCmp = Slice;
+IdModule  = Folknology:SLICE-Board;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C7F715;
+Reference = U1;
+ValeurCmp = L6474;
+IdModule  = Folknology:HTSSOP28;
+EndCmp
+
+BeginCmp
+TimeStamp = /53C7F80A;
+Reference = U2;
+ValeurCmp = L6474;
+IdModule  = Folknology:HTSSOP28;
+EndCmp
+
+EndListe
